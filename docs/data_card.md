@@ -76,8 +76,6 @@ Preprocessing included:
 ## 7. Licensing
 
 Dataset License: **CC BY 4.0**  
-Code License: MIT License (recommended)
-
 ---
 
 ## 8. Contact
